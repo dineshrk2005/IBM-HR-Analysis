@@ -4,7 +4,7 @@ This repository contains the Tableau project file for an interactive HR dashboar
 🖼️ Dashboard Preview
 (A preview image of the dashboard would be placed here)
 
-![Dashboard Preview]([Dashboard.jpg](https://github.com/dineshrk2005/IBM-HR-Analysis/blob/main/IBM%20HR%20Tablaue%20Porject/Dashboard%201.png?raw=true))
+![image alt]([Dashboard.jpg](https://github.com/dineshrk2005/IBM-HR-Analysis/blob/main/IBM%20HR%20Tablaue%20Porject/Dashboard%201.png?raw=true))
 
 IBM HR Employee Analytics Dashboard
 This repository contains the Tableau project file for an interactive HR dashboard focused on analyzing employee data. The dashboard visualizes key metrics related to demographics, compensation, job roles, and employee attrition.
